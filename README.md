@@ -14,7 +14,12 @@
 </div>
 
 
-<p> Um jogo top-down <strong>front-end responsivo</strong> sobre o universo da fotografia, desenvolvido para colocar em prática habilidades como <strong>HTML, CSS e JS</strong>. </p>
+<p> 
+Eco-Reads Library é um projeto simples criado em C++ utilizando a biblioteca Qt (Qt Creator).
+O sistema foi pensado para gerenciar uma biblioteca, em que os usuários realizem empréstimos e devoluções de livros, enquanto o bibliotecário cadastra e remove livros.
+
+
+ </p>
 
 <br>
 
