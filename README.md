@@ -15,12 +15,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Sobre%20o%20Projeto&label=&color=697B4C&labelColor=&style=for-the-badge" height="25" alt="Sobre o projeto" />
-</div>
-
-<br>
-
+<img src="https://img.shields.io/static/v1?message=Sobre%20o%20Projeto&label=&color=697B4C&labelColor=&style=for-the-badge" height="25" alt="Sobre o projeto" />
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -34,7 +29,7 @@
 
 <br>
 
-<img src="https://img.shields.io/static/v1?message=Ferramentas%20e%20Tecnologias&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="Ferramentas" />
+<img src="https://img.shields.io/static/v1?message=Ferramentas%20e%20Tecnologias&label=&color=697B4C&labelColor=&style=for-the-badge" height="25" alt="Ferramentas" />
 <ul>
   <li>Linguagem: C++</li>
   <li>Ambiente de Desenvolvimento: Qt Creator</li>
