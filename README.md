@@ -31,3 +31,13 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/static/v1?message=Ferramentas%20e%20Tecnologias&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="Ferramentas" />
+<ul>
+  <li>Linguagem: C++</li>
+  <li>Ambiente de Desenvolvimento: Qt Creator</li>
+  <li>Interface Grafica: QML</li>
+  <li>Conceitos Aplicados: Programacao Orientada a Objetos (POO)</li>
+</ul>
