@@ -31,31 +31,3 @@
     </td>
   </tr>
 </table>
-
-<p> 
-
-
-
-
- </p>
-
-<br>
-
-<img src="https://img.shields.io/static/v1?message=O%20projeto%20aborda%20alguns%20temas%20sobre%20fotografia,%20como:&label=&color=538393&style=for-the-badge" height="30" alt="Descrição" />
-
-- História da fotografia
-- 15 fotografias históricas
-- 5 fotógrafos famosos
-- Tipos e estilos de fotografias
-- Destaques de premiações, como o Sony World Photography Awards 2024
-- Guia para iniciantes
-
-<br>
-
-<img src="https://img.shields.io/static/v1?message=Principais%20funcionalidades:&label=&color=538393&style=for-the-badge" height="30" alt="Descrição" />
-
-- 🌗 Tema claro e escuro: pode alterar os modos de visualização
-- 📝 Formulários: estruturalmente prontos em HTML
-- 🖼️ Galeria de imagens: apresentação organizada das fotografias
-
-<br>
